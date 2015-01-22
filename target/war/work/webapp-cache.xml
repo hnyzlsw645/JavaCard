@@ -1,0 +1,10 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set"/>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>

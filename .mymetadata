@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JavaCard"
+  id="myeclipse.1421630904795"
+  context-root="/JavaCard"
+  j2ee-spec="5.0"
+  archive="JavaCard.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
